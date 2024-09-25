@@ -18,3 +18,6 @@ export { default as joao_guilherme } from "./joao_guilherme.png";
 export { default as lara } from "./lara.png";
 export { default as yan } from "./yan.png";
 export { default as yasmim } from "./yasmim.png";
+export { default as guilherme } from "./guilherme.png";
+export { default as joao_gabriel } from "./joao_gabriel.png";
+export { default as renato } from "./renato.png";

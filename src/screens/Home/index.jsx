@@ -40,7 +40,7 @@ export const Home = () => {
           >
             <Text fontSize={{ base: "24px", md: "96px" }}>Feira</Text>
             <Text fontSize={{ base: "24px", md: "96px" }} color="green.400">
-              Técnica
+              Técnica - FEC
             </Text>
           </Heading>
         </Box>

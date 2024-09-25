@@ -4,16 +4,19 @@ import {
   lara,
   yan,
   yasmim,
+  renato,
+  guilherme,
+  joao_gabriel,
 } from "assets/img/application";
 
 export const persons = [
   {
     name: "Renato",
-    image: yan,
+    image: renato,
   },
   {
     name: "Guilherme R.",
-    image: yan,
+    image: guilherme,
   },
   {
     name: "João Guilherme",
@@ -29,7 +32,7 @@ export const persons = [
   },
   {
     name: "João Gabriel",
-    image: yan,
+    image: joao_gabriel,
   },
   {
     name: "Lara",
